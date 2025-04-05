@@ -1,1 +1,3 @@
-# RAG_QA
+# My Project
+
+Simple Python project structure.
